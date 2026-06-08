@@ -10,47 +10,79 @@ It helps to manage hospital activities like patient records, doctor information,
 ##🚀 Features
 
 👤 User Login System
+
 🏥 Patient Management
+
 👨‍⚕️ Doctor Management
+
 📅 Appointment Scheduling
+
 💊 Medicine Management
+
 💰 Billing System
+
 🏥 Patient Discharge System
+
 🗄️ Database Connectivity (MySQL)
 
+
 ##🛠️ Technologies Used
+
 Java (Swing GUI)
+
 NetBeans IDE
+
 MySQL Database
+
 JDBC (Database Connectivity)
+
 
 ##📁 Project Structure
 HospitalManagementSystem
 │
 ├── src/
 │   ├── Login.java
+
 │   ├── Dashboard.java
+
 │   ├── PatientForm.java
+
 │   ├── DoctorForm.java
+
 │   ├── AppointmentForm.java
+
 │   ├── BillForm.java
+
 │   ├── MedicineForm.java
+
 │   ├── DischargeForm.java
+
 │   └── DBConnection.java
 │
 ├── pom.xml (if Maven project)
+
 └── README.md
+
 
 ##⚙️ How to Run
 
 Clone this repository
+
 git clone https://github.com/minhazhosain273-source/HospitalManagementSystem.git
+
 Open project in NetBeans IDE
+
 Import MySQL database
+
 Update database connection in:
+
 DBConnection.java
+
 Run the project from:
+
 Login.java
+
+
 
 ##🔐 Login Credentials (Demo)
 
