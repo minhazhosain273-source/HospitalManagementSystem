@@ -2,10 +2,14 @@
 
 A simple Java Swing + MySQL based Desktop Application for managing hospital operations efficiently.
 
+
 ##📌 Project Overview
 
 This project is a desktop-based Hospital Management System developed using Java (NetBeans) and MySQL Database.
+
 It helps to manage hospital activities like patient records, doctor information, appointments, billing, and discharge process in an organized way.
+
+
 
 ##🚀 Features
 
@@ -40,7 +44,9 @@ JDBC (Database Connectivity)
 ##📁 Project Structure
 HospitalManagementSystem
 │
+
 ├── src/
+
 │   ├── Login.java
 
 │   ├── Dashboard.java
@@ -64,6 +70,8 @@ HospitalManagementSystem
 └── README.md
 
 
+
+
 ##⚙️ How to Run
 
 Clone this repository
@@ -84,6 +92,7 @@ Login.java
 
 
 
+
 ##🔐 Login Credentials (Demo)
 
 Username: admin
@@ -91,11 +100,15 @@ Username: admin
 Password: 1234
 
 
+
+
 ##🎯 Purpose of the Project
 
 This project is developed for learning purposes and academic submission.
 
 It demonstrates how Java GUI applications interact with databases to manage real-world systems.
+
+
 
 
 ##👨‍💻 Developer
